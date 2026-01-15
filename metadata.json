@@ -1,0 +1,5 @@
+{
+  "name": "BossaGPT: AI Operations Hub",
+  "description": "A multi-agent AI system to manage Bossa Asado i Mar, a fire-grill fusion restaurant. The system features 18 specialized GPT agents to automate and enhance operations from the kitchen to guest experience.",
+  "requestFramePermissions": []
+}
